@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>
-        COLOCAR INSERÇÃO DOS NOMES DOS JOGADORES
+        COLOCAR INSERÇÃO DOS NOMES
     </h1>
   </div>
 </template>
